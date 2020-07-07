@@ -3,18 +3,18 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Perulangan;
+package pertemuan6;
 
 /**
  *
  * @author hp
  */
-public class PerulanganDoWhile {
+public class PerulanganWhile {
     public static void main(String[] args) {
-         // Perulangan Do-While
-        int i = 0;
-        do{System.out.println("Saya Sedang Belajar Bahasa Inggris");i++;
+         // Perulangan While
+       int i = 0;
+       while  (i<=10){
+           System.out.println("Saya sedang Bermain Futsal");i++;
         }
-        while (i<=10);
     }
 }
