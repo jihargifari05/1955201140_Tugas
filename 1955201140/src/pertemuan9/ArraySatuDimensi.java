@@ -9,7 +9,7 @@ package pertemuan9;
  *
  * @author hp
  */
-public class larik {
+public class ArraySatuDimensi {
     public static void main(String[] args) {
         
         // contoh deklarasi array cara ke-1

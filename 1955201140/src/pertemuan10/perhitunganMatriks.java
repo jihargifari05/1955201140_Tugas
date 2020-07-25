@@ -55,17 +55,6 @@ public class perhitunganMatriks {
             }
             System.out.println();
         }
-        
-        System.out.println();
-        System.out.println("Hasil Perkalian"); //Bagian perkalian antara matrik A dan B
-        System.out.println();
-        for (int m = 0; m < matriksC[0].length; m++){
-            for (int n = 0; n < matriksC.length; n++){
-                matriksC[m][n] = matriksA[m][n] * matriksB[m][n];
-                System.out.print(matriksC[m][n]+"\t");
-            }
-            System.out.println();
-        }
           
     }
 }
